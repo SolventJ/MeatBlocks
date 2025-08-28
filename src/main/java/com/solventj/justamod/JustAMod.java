@@ -3,7 +3,6 @@ package com.solventj.justamod;
 import com.solventj.justamod.block.ModBlocks;
 import com.solventj.justamod.item.ModCreativeModeTabs;
 import com.solventj.justamod.item.ModItems;
-import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;

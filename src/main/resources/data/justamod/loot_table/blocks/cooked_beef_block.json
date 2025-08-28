@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "justamod:rotten_flesh_block"
+          "name": "justamod:cooked_beef_block"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "justamod:block/rotten_flesh_block"
+  "random_sequence": "justamod:block/cooked_beef_block"
 }

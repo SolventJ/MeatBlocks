@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "justamod:rotten_flesh_block"
+      "item": "justamod:cooked_pork_block"
     }
   ],
   "result": {
     "count": 9,
-    "id": "minecraft:rotten_flesh"
+    "id": "minecraft:cooked_porkchop"
   }
 }

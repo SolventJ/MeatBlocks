@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:rotten_flesh"
+      "item": "minecraft:porkchop"
     }
   },
   "pattern": [
@@ -12,6 +12,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "justamod:rotten_flesh_block"
+    "id": "justamod:raw_pork_block"
   }
 }
