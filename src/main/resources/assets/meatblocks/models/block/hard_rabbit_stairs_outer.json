@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "meatblocks:block/hard_rabbit",
+    "side": "meatblocks:block/hard_rabbit",
+    "top": "meatblocks:block/hard_rabbit"
+  }
+}

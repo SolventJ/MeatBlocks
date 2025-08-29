@@ -3,10 +3,13 @@ loaderVersion="${loader_version_range}"
 license="${mod_license}"
 
 [[mods]]
+modUrl="${mod_url}"
+displayURL="${mod_url}"
+
 modId="${mod_id}"
 version="${mod_version}"
-logoFile = "assets/${mod_id}/icon.png"
 displayName="${mod_name}"
+logoFile = "assets/${mod_id}/icon.png"
 authors="${mod_authors}"
 description='''${mod_description}'''
 
@@ -23,6 +26,13 @@ description='''${mod_description}'''
     versionRange="${minecraft_version_range}"
     ordering="NONE"
     side="BOTH"
+
+#[[dependencies.${mod_id}]]
+#    modId="farmersdelight"
+#    type="optional"
+#    versionRange="${minecraft_version_range}"
+#    ordering="NONE"
+#    side="BOTH"
 
 [modproperties.${mod_id}]
 catalogueImageIcon = "assets/${mod_id}/icon.png"

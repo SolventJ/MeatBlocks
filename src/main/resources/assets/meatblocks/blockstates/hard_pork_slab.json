@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "meatblocks:block/hard_pork_slab"
+    },
+    "type=double": {
+      "model": "meatblocks:block/hard_pork"
+    },
+    "type=top": {
+      "model": "meatblocks:block/hard_pork_slab_top"
+    }
+  }
+}

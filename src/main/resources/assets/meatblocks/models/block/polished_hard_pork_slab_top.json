@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "meatblocks:block/polished_hard_pork",
+    "side": "meatblocks:block/polished_hard_pork",
+    "top": "meatblocks:block/polished_hard_pork"
+  }
+}

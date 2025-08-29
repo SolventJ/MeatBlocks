@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "meatblocks:block/polished_hard_rabbit_slab"
+    },
+    "type=double": {
+      "model": "meatblocks:block/polished_hard_rabbit"
+    },
+    "type=top": {
+      "model": "meatblocks:block/polished_hard_rabbit_slab_top"
+    }
+  }
+}

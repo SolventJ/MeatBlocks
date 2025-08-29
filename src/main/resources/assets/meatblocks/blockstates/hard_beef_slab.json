@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "meatblocks:block/hard_beef_slab"
+    },
+    "type=double": {
+      "model": "meatblocks:block/hard_beef"
+    },
+    "type=top": {
+      "model": "meatblocks:block/hard_beef_slab_top"
+    }
+  }
+}

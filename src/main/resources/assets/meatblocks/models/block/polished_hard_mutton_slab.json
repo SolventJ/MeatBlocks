@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "meatblocks:block/polished_hard_mutton",
+    "side": "meatblocks:block/polished_hard_mutton",
+    "top": "meatblocks:block/polished_hard_mutton"
+  }
+}

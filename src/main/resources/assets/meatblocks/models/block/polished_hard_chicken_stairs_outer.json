@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "meatblocks:block/polished_hard_chicken",
+    "side": "meatblocks:block/polished_hard_chicken",
+    "top": "meatblocks:block/polished_hard_chicken"
+  }
+}

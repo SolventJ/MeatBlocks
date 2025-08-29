@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "meatblocks:block/hard_pork",
+    "side": "meatblocks:block/hard_pork",
+    "top": "meatblocks:block/hard_pork"
+  }
+}

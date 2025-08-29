@@ -22,14 +22,49 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) ->{
                         output.accept(ModBlocks.RAW_BEEF_BLOCK);
                         output.accept(ModBlocks.COOKED_BEEF_BLOCK);
+                        output.accept(ModBlocks.HARD_BEEF);
+                        output.accept(ModBlocks.HARD_BEEF_STAIRS);
+                        output.accept(ModBlocks.HARD_BEEF_SLAB);
+                        output.accept(ModBlocks.POLISHED_HARD_BEEF);
+                        output.accept(ModBlocks.POLISHED_HARD_BEEF_STAIRS);
+                        output.accept(ModBlocks.POLISHED_HARD_BEEF_SLAB);
+
                         output.accept(ModBlocks.RAW_CHICKEN_BLOCK);
                         output.accept(ModBlocks.COOKED_CHICKEN_BLOCK);
+                        output.accept(ModBlocks.HARD_CHICKEN);
+                        output.accept(ModBlocks.HARD_CHICKEN_STAIRS);
+                        output.accept(ModBlocks.HARD_CHICKEN_SLAB);
+                        output.accept(ModBlocks.POLISHED_HARD_CHICKEN);
+                        output.accept(ModBlocks.POLISHED_HARD_CHICKEN_STAIRS);
+                        output.accept(ModBlocks.POLISHED_HARD_CHICKEN_SLAB);
+
                         output.accept(ModBlocks.RAW_MUTTON_BLOCK);
                         output.accept(ModBlocks.COOKED_MUTTON_BLOCK);
+                        output.accept(ModBlocks.HARD_MUTTON);
+                        output.accept(ModBlocks.HARD_MUTTON_STAIRS);
+                        output.accept(ModBlocks.HARD_MUTTON_SLAB);
+                        output.accept(ModBlocks.POLISHED_HARD_MUTTON);
+                        output.accept(ModBlocks.POLISHED_HARD_MUTTON_STAIRS);
+                        output.accept(ModBlocks.POLISHED_HARD_MUTTON_SLAB);
+
                         output.accept(ModBlocks.RAW_PORK_BLOCK);
                         output.accept(ModBlocks.COOKED_PORK_BLOCK);
+                        output.accept(ModBlocks.HARD_PORK);
+                        output.accept(ModBlocks.HARD_PORK_STAIRS);
+                        output.accept(ModBlocks.HARD_PORK_SLAB);
+                        output.accept(ModBlocks.POLISHED_HARD_PORK);
+                        output.accept(ModBlocks.POLISHED_HARD_PORK_STAIRS);
+                        output.accept(ModBlocks.POLISHED_HARD_PORK_SLAB);
+
                         output.accept(ModBlocks.RAW_RABBIT_BLOCK);
                         output.accept(ModBlocks.COOKED_RABBIT_BLOCK);
+                        output.accept(ModBlocks.HARD_RABBIT);
+                        output.accept(ModBlocks.HARD_RABBIT_STAIRS);
+                        output.accept(ModBlocks.HARD_RABBIT_SLAB);
+                        output.accept(ModBlocks.POLISHED_HARD_RABBIT);
+                        output.accept(ModBlocks.POLISHED_HARD_RABBIT_STAIRS);
+                        output.accept(ModBlocks.POLISHED_HARD_RABBIT_SLAB);
+
                         output.accept(ModBlocks.ROTTEN_FLESH_BLOCK);
                     }).build());
 

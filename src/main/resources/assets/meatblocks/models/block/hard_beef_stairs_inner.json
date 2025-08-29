@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "meatblocks:block/hard_beef",
+    "side": "meatblocks:block/hard_beef",
+    "top": "meatblocks:block/hard_beef"
+  }
+}
