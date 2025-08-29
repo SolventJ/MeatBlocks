@@ -1,0 +1,16 @@
+{
+  "block.meatblocks.raw_beef_block": "Raw Beef Block",
+  "block.meatblocks.cooked_beef_block": "Cooked Beef Block",
+  "block.meatblocks.raw_chicken_block": "Raw Chicken Block",
+  "block.meatblocks.cooked_chicken_block": "Cooked Chicken Block",
+  "block.meatblocks.raw_mutton_block": "Raw Mutton Block",
+  "block.meatblocks.cooked_mutton_block": "Cooked Mutton Block",
+  "block.meatblocks.raw_pork_block": "Raw Pork Block",
+  "block.meatblocks.cooked_pork_block": "Cooked Pork Block",
+  "block.meatblocks.raw_rabbit_block": "Raw Rabbit Block",
+  "block.meatblocks.cooked_rabbit_block": "Cooked Rabbit Block",
+
+  "block.meatblocks.rotten_flesh_block": "Rotten Flesh Block",
+
+  "tab.meatblocks.main_tab": "Meat Blocks"
+}

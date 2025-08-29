@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "meatblocks:block/cooked_beef_block"
+    }
+  }
+}

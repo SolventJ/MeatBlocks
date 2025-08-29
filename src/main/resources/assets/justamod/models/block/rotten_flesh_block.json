@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "justamod:block/rotten_flesh_block"
-  }
-}

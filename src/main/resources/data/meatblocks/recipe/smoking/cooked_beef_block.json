@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 900,
+  "experience": 3.15,
+  "ingredient": {
+    "item": "meatblocks:raw_beef_block"
+  },
+  "result": {
+    "id": "meatblocks:cooked_beef_block"
+  }
+}

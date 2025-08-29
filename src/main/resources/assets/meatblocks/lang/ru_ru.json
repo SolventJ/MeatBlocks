@@ -1,0 +1,16 @@
+{
+  "block.meatblocks.raw_beef_block": "Блок сырой говядины",
+  "block.meatblocks.cooked_beef_block": "Блок жареной говядины",
+  "block.meatblocks.raw_chicken_block": "Блок сырой курятины",
+  "block.meatblocks.cooked_chicken_block": "Блок жареной курятины",
+  "block.meatblocks.raw_mutton_block": "Блок сырой баранины",
+  "block.meatblocks.cooked_mutton_block": "Блок жареной баранины",
+  "block.meatblocks.raw_pork_block": "Блок сырой свинины",
+  "block.meatblocks.cooked_pork_block": "Блок жареной свинины",
+  "block.meatblocks.raw_rabbit_block": "Блок сырой крольчатины",
+  "block.meatblocks.cooked_rabbit_block": "Блок жареной крольчатины",
+
+  "block.meatblocks.rotten_flesh_block": "Блок гнилой плоти",
+
+  "tab.meatblocks.main_tab": "Мясные блоки"
+}

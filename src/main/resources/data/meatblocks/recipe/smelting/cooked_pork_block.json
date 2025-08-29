@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 1800,
+  "experience": 3.15,
+  "ingredient": {
+    "item": "meatblocks:raw_pork_block"
+  },
+  "result": {
+    "id": "meatblocks:cooked_pork_block"
+  }
+}
