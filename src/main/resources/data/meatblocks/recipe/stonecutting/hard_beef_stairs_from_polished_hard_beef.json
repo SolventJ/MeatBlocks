@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "meatblocks:polished_hard_beef"
+  },
+  "result": {
+    "count": 1,
+    "id": "meatblocks:hard_beef_stairs"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "meatblocks:hard_mutton"
+  },
+  "result": {
+    "count": 2,
+    "id": "meatblocks:polished_hard_mutton_slab"
+  }
+}

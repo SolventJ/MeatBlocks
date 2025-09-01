@@ -4,8 +4,6 @@ import com.solventj.meatblocks.MeatBlocks;
 import com.solventj.meatblocks.item.ModItems;
 import com.solventj.meatblocks.item.custom.BlockItemWithDesc;
 import net.minecraft.ChatFormatting;
-import net.minecraft.core.component.DataComponentType;
-import net.minecraft.world.inventory.tooltip.TooltipComponent;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
